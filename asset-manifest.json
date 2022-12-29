@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Countdown/static/css/main.72bdc02a.css",
-    "main.js": "/React-Countdown/static/js/main.0c9c2b8a.js",
+    "main.css": "/React-Countdown/static/css/main.dd5566f0.css",
+    "main.js": "/React-Countdown/static/js/main.71b7e8b4.js",
     "static/js/787.482db2ac.chunk.js": "/React-Countdown/static/js/787.482db2ac.chunk.js",
-    "static/media/logo.svg": "/React-Countdown/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/pattern-hills.svg": "/React-Countdown/static/media/pattern-hills.815d688fd937623063b5c111be9fc999.svg",
     "index.html": "/React-Countdown/index.html",
-    "main.72bdc02a.css.map": "/React-Countdown/static/css/main.72bdc02a.css.map",
-    "main.0c9c2b8a.js.map": "/React-Countdown/static/js/main.0c9c2b8a.js.map",
+    "main.dd5566f0.css.map": "/React-Countdown/static/css/main.dd5566f0.css.map",
+    "main.71b7e8b4.js.map": "/React-Countdown/static/js/main.71b7e8b4.js.map",
     "787.482db2ac.chunk.js.map": "/React-Countdown/static/js/787.482db2ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72bdc02a.css",
-    "static/js/main.0c9c2b8a.js"
+    "static/css/main.dd5566f0.css",
+    "static/js/main.71b7e8b4.js"
   ]
 }
